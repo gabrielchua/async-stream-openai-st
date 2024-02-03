@@ -27,7 +27,6 @@ col1, col2 = st.columns(2)
 essay_1 = col1.empty()
 essay_2 = col2.empty()
 
-@st.partial
 async def generate_essay(placeholder, topic, word_count):
     stream = await client.chat.completions.create(
         model="gpt-3.5-turbo",
