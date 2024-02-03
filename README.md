@@ -1,1 +1,1 @@
-# Stream OpenAI Outputs in Streamlit
+# Asynchronously Stream OpenAI Outputs in Streamlit
