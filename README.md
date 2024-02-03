@@ -1,1 +1,1 @@
-# streamlit-stream-openai-demo
+# Stream OpenAI Outputs in Streamlit
